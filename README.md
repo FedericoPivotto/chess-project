@@ -1,12 +1,12 @@
 # LABORATORIO DI PROGRAMMAZIONE
-# PROGETTO FINALE – SCACCHIERA ELETTRONICA
+## PROGETTO FINALE – SCACCHIERA ELETTRONICA
 
 GRUPPO: Gli Autostoppisti
 AUTORI: Molinaroli Davide, Pivotto Federico, Genilotti Fabrizio
 
 
 
-## OSSERVAZIONI SUL FUNZIONAMENTO DEL PROGRAMMA
+### Osservazioni sul funzionamento del programma
  
  - Il modulo "scacchiera" produce un file di log avente sempre il nome "log.txt": questo si può modificare in riga 39 di "menu.h".
  - La mossa speciale di "arrocco" richiede come sorgente una torre (o re) e come punto di arrivo un re (o torre), e non posizioni intermedie come destinazione: ad esempio "E1 H1" è una mossa di arrocco, mentre "E1 G1" non lo è.
@@ -15,7 +15,7 @@ AUTORI: Molinaroli Davide, Pivotto Federico, Genilotti Fabrizio
 
 
 
-## OSSERVAZIONI GENERALI SULLA STRUTTURA DEL PROGRAMMA
+### Osservazioni generali sulla struttura del programma
  
  - Nel modulo "scacchiera":
     * La classe "Menu" ha il compito di interfacciarsi con l'utente, generare o ricevere le mosse e scrivere nel file di log.
@@ -33,7 +33,7 @@ AUTORI: Molinaroli Davide, Pivotto Federico, Genilotti Fabrizio
 
 
 
-## ESEMPIO COMANDI DI ESECUZIONE
+### Esempio di comandi di esecuzione
 .\scacchiera cc
 .\scacchiera pc
 .\replay f log.txt out.txt
