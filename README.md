@@ -1,4 +1,4 @@
-# Progetto Finale di Laboratorio di Programmazione
+# Progetto finale di Laboratorio di Programmazione
 ## Scacchiera Elettronica
 
 GRUPPO: Gli Autostoppisti
