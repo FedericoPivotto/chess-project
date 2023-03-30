@@ -1,5 +1,5 @@
 # Progetto finale di Laboratorio di Programmazione
-## Scacchiera Elettronica
+## Scacchiera elettronica
 
 GRUPPO: Gli Autostoppisti
 AUTORI: Molinaroli Davide, Pivotto Federico, Genilotti Fabrizio
